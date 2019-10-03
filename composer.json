@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Ink_and_Toner_Finder-TopFINDER",
+    "name": "OpenMageModuleFostering\/Ink_and_Toner_Finder-TopFINDER",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
-    "description": "Suchen von Verbrauchsmaterialien über den Drucker",
+    "description": "Suchen von Verbrauchsmaterialien \u00fcber den Drucker",
     "authors": [
-    {
-        "name": "TopData GmbH",
-        "email": "info@topdata.de"
-    }
-],
+        {
+            "name": "TopData GmbH",
+            "email": "info@topdata.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
